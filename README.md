@@ -1,5 +1,7 @@
 # 🚀 GitHub Actions Cheat Sheet 🎉
 
+🌐 **Disponible en:** [English](./README.en.md) | [Català](./README.ca.md)
+
 Bienvenido a esta guía rápida y visual sobre GitHub Actions. Aquí encontrarás los conceptos clave y ejemplos prácticos para crear y optimizar tus propios workflows. Ideal para tener siempre a mano y consultar en tu día a día como desarrollador. 😎
 
 ---
